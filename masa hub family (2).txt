@@ -11,8 +11,8 @@ local LocalPlayer = Players.LocalPlayer
 -- ★★★ 許可するユーザーIDを設定 ★★★
 local ALLOWED_USER_IDS = {
     [9137343919] = true, 
-    [10444006940] = true,
-    [8791456776] = true, 
+    [10444006940] = true,  
+    [8791456776] = true,
 }
 
 -- チェック関数（ユーザーIDのみで判定）
